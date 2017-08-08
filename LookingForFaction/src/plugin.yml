@@ -1,0 +1,7 @@
+main: me.ghast.lff.Main
+version: 1.0
+name: SketchLFF
+description: Looking For Factionn plugin
+commands:
+  lff:
+  
